@@ -1,0 +1,34 @@
+{
+  "name": "etherchain",
+  "version": "1.0.0",
+  "description": "nodejs API for Etherium Blockchain",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "etherchain",
+    "etherium blockchain",
+    "bitcoins",
+    "bitcoin"
+  ],
+  "author": {
+    "name": "sgsshankar",
+    "email": "sgsshankarnarayanan@gmail.com",
+    "url": "http://github.com/sgsshankar"
+  },
+  "main": "etherchain.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sgsshankar/etherchain-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgsshankar/etherchain-node/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "promise": "^7.0.4",
+    "unirest": "^0.4.2"
+  },
+  "license": "Apache License"
+}
