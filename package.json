@@ -1,6 +1,6 @@
 {
   "name": "etherchain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs API for Etherium Blockchain",
   "scripts": {
     "test": "node app.js",
