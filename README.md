@@ -40,3 +40,7 @@ Feel free to fork from [etherchain-node](https://github.com/sgsshankar/etherchai
 
 https://github.com/sgsshankar/etherchain-node/issues
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sgsshankar/etherchain-node/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
