@@ -1,14 +1,14 @@
 {
   "name": "etherchain",
   "version": "1.0.1",
-  "description": "nodejs API for Etherium Blockchain",
+  "description": "nodejs API for Ethereum Blockchain",
   "scripts": {
     "test": "node app.js",
     "start": "node app.js"
   },
   "keywords": [
     "etherchain",
-    "etherium blockchain",
+    "ethereum blockchain",
     "bitcoins",
     "bitcoin"
   ],
