@@ -5,5 +5,6 @@ exports.config = {
 	blocks: '/api/blocks/',
 	block: '/api/block/',
 	transaction: '/api/tx/',
-	account: '/api/account/'
+	account: '/api/account/',
+	accountTransaction: '/account/',
 };
