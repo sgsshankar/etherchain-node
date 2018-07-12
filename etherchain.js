@@ -42,7 +42,7 @@ module.exports = {
 	},
 
 	getAccountTransaction: function(txId, offset) {
-		var url = config.config.account + txId + "/tx/" + offset;
+		var url = config.config.accountTransaction + txId + "/txs?start=" + offset + "&length=100";
 		var result = sendRequest(url, 'GET', {});
 		return result;
 	}
