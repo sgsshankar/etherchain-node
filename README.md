@@ -1,4 +1,4 @@
-# etherchain-node
+## etherchain-node
 Node JS api for the Ethereum blockchain
 
 ### Installation
